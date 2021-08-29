@@ -88,10 +88,10 @@ const account2 = {
 };
 
 const account3 = {
-  owner: 'Akash',
+  owner: 'Sushant Mawar',
   movements: [200, -200, 340, -300, -20, 50, 400, -460],
   interestRate: 0.7,
-  pin: 0407,
+  pin: 2501,
 
   movementsDates: [
     '2021-05-31T13:15:33.035Z',
