@@ -1,3 +1,4 @@
-# Bankist Project
+# forkify Project
 
-Bankist application with transfer/recieve money, requesting loan and closing account.
+Recipe application with custom recipe uploads.
+https://forkify-app-amulya.netlify.app
