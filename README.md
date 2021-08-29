@@ -1,3 +1,3 @@
-# forkify Project
+# Bankist Application
 
 Bankist application with transfer/recieve money, requesting loan and closing account features.
