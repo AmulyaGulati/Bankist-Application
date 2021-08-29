@@ -50,10 +50,10 @@
 // };
 
 const account1 = {
-  owner: 'Amulya',
+  owner: 'Amulya Gulati',
   movements: [200, 450, -400, 3000, -650, -130, 70, 1300],
   interestRate: 1.2, // %
-  pin: 1111,
+  pin: 1306,
 
   movementsDates: [
     '2021-06-11T13:15:33.035Z',
@@ -70,10 +70,10 @@ const account1 = {
 };
 
 const account2 = {
-  owner: 'Anmol Gulati',
+  owner: 'Aman Yadav',
   movements: [5000, 3400, -150, -790, -3210, -1000, 8500, -30],
   interestRate: 1.5,
-  pin: 2222,
+  pin: 0910,
 
   movementsDates: [
     '2021-05-11T13:15:33.035Z',
@@ -90,10 +90,10 @@ const account2 = {
 };
 
 const account3 = {
-  owner: 'Scooby Doo',
+  owner: 'Akash Kumar',
   movements: [200, -200, 340, -300, -20, 50, 400, -460],
   interestRate: 0.7,
-  pin: 3333,
+  pin: 0407,
 
   movementsDates: [
     '2021-05-31T13:15:33.035Z',
@@ -110,10 +110,10 @@ const account3 = {
 };
 
 const account4 = {
-  owner: 'Mickey',
+  owner: 'Shresth Sagar',
   movements: [430, 1000, 700, 50, 90],
   interestRate: 1,
-  pin: 4444,
+  pin: 2410,
 
   movementsDates: [
     '2021-06-03T13:15:33.035Z',
